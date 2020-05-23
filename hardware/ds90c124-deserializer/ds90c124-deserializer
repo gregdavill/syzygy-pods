@@ -1,0 +1,65 @@
+Source,/home/greg/projects/SyzygyPodTemplate/hardware/deserialiser/ds90c124-deserializer.kicad_sch
+Kicad Rev,Eeschema 5.99.0-unknown-4cfff6b~101~ubuntu18.04.1
+Generated Date,Sat 23 May 2020 19:55:09 ACST
+
+Title,ds90c124-deserializer
+Company,Not Set
+Revision,r1.0
+Date Issue,2020-05-23
+Comment,SYZYGY Pod
+
+Reference,Value,Mfg,PN,Library,Library Ref
+C1,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C
+C10,0.01uF,Device,C
+C2,0.01uF,Device,C
+C3,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C
+C4,0.01uF,Device,C
+C5,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C_Small
+C6,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C_Small
+C7,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C
+C8,0.01uF,Device,C
+C9,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C
+D1,LED_ALT,Device,LED_ALT
+D2,LED_ALT,Device,LED_ALT
+D3,LED_ALT,Device,LED_ALT
+J1,SYZYGY-STD,Samtec Inc.,QTE-020-01-F-D-A,gkl_misc,SYZYGY-STD
+J4,Conn_01x02_Male,Connector,Conn_01x02_Male
+R10,47R,Device,R
+R11,47R,Device,R
+R12,47R,Device,R
+R13,47R,Device,R
+R14,47R,Device,R
+R15,47R,Device,R
+R16,47R,Device,R
+R17,47R,Device,R
+R18,47R,Device,R
+R19,47R,Device,R
+R2,47R,Device,R
+R20,47R,Device,R
+R21,47R,Device,R
+R22,47R,Device,R
+R23,47R,Device,R
+R24,47R,Device,R
+R25,47R,Device,R
+R26,47R,Device,R
+R27,47R,Device,R
+R28,47R,Device,R
+R29,47R,Device,R
+R3,47R,Device,R
+R30,47R,Device,R
+R31,1k,Device,R
+R32,1k,Device,R
+R33,1k,Device,R
+R34,100R,Device,R
+R4,47R,Device,R
+R5,47R,Device,R
+R6,47R,Device,R
+R7,47R,Device,R
+R8,47R,Device,R
+R9,47R,Device,R
+U2,DS90C241,gkl_image,DS90C241
+C14,0.1uF,Samsung Electro-Mechanics,CL05B104KP5NNNC,Device,C
+C15,1uF,Samsung Electro-Mechanics,CL05A105KP5NNNC,Device,C
+J3,TagConnect,Connector_Generic,Conn_02x03_Odd_Even
+R1,10K,Stackpole Electronics Inc,RMCF0402FT10K0,Device,R
+U1,ATtiny44A-MMH,Microchip Technology,ATTINY44A-MMH,SyzygyLVDSPod-rescue,ATtiny44A-MMH-MCU_Microchip_ATtiny
