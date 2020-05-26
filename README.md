@@ -9,3 +9,4 @@ SYZYGY is an FPGA expansion standard for medium to high speed interfaces. Learn 
 * __lvds-10.1"-panel__ - 10.1" 1280x800 LVDS LCD + PMIC
 * __ds90c124-deserializer__ - 
 * __sii9022a__ - HDMI transmitter
+* __can__ - MCP25625 based CAN controller
